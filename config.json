@@ -1,8 +1,8 @@
 {
-  "server": "onplus.herokuapp.com",
+  "server": "zpssr.herokuapp.com",
   "local_address": "0.0.0.0",
   "scheme": "ws",
-  "local_port": 1080,
+  "local_port": 3140,
   "remote_port": 80,
   "password": "onplus",
   "timeout": 600,
